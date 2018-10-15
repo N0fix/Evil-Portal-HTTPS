@@ -13,4 +13,4 @@ As this modification makes the HTTPs certificate check fail, the module cannot r
 
 ## Landed page
 
-I added a landup page named "dest.php" in the example, and made some modifications in the modules in order to redirect to this page after login trough the captive portal no matter what happens. It looks a lot more natural then just reload index.php page as the module would originaly do.
+I added a landing page named "dest.php" in the example, and made some modifications in the modules in order to redirect to this page after login trough the captive portal no matter what happens. It looks a lot more natural then just reload index.php page as the module would originaly do.
