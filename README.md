@@ -1,5 +1,5 @@
 # Modified module from Evil Portal for Pineapple
-This modifications allow the module to block HTTPs request from a client as long as they didn't go trough the captive portal at least once.
+Those modifications allow the module to block HTTPs request from a client as long as they didn't go trough the captive portal at least once.
 
 As this modification makes the HTTPs certificate check fail, the module cannot redirect directly the client to your captive portal. Here are the behaviors depending on your web browser when a client tries to load an HTTPs without going trough your captive portal :
 
